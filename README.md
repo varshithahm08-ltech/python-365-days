@@ -20,6 +20,32 @@ My goal is to become a Software Developer by learning Python, Data Structures, W
 python-365-days/
 │
 ├── Day-01/
+# Python 365 Days
+
+## Day 1
+
+### Topics Covered
+- print()
+- Variables
+- User Input
+- int()
+- Arithmetic Operators
+- Square Program
+- Cube Program
+
+### Programs
+- Hello World
+- Print Name
+- Sum
+- Product
+- Square
+- Cube
+- Student Details
+- Input Name
+- Input Age
+
+## Goal
+Become a Software Developer in one year by practicing Python every day.
 ├── Day-02/
 ├── Day-03/
 ├── Projects/
