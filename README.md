@@ -1,69 +1,32 @@
-# 🐍 Python 365 Days
+# Python 365 Days 🚀
 
-Welcome to my 365-Day Python Learning Journey.
-
-## 🎯 Goal
-My goal is to become a Software Developer by learning Python, Data Structures, Web Development, AI, and building real-world projects.
-
-## 📅 Learning Journey
-
-### Month 1
-- Python Basics
-- Variables
-- Data Types
-- Input & Output
-- Operators
-
-### Repository Structure
-
-```
-python-365-days/
-│
-├── Day-01/
-# Python 365 Days
-
-## Day 1
-
-### Topics Covered
-- print()
-- Variables
-- User Input
-- int()
-- Arithmetic Operators
-- Square Program
-- Cube Program
-
-### Programs
-- Hello World
-- Print Name
-- Sum
-- Product
-- Square
-- Cube
-- Student Details
-- Input Name
-- Input Age
+Welcome to my Python learning journey!
 
 ## Goal
-Become a Software Developer in one year by practicing Python every day.
-├── Day-02/
-├── Day-03/
-├── Projects/
-└── README.md
-```
+To become a Software Developer by learning Python consistently for 365 days.
 
-## 🛠️ Tools
+## Progress
 
+### ✅ Day 1
+- Python Installation
+- VS Code Setup
+- Variables
+- Print Statements
+- First Python Programs
+
+### ✅ Day 2
+- Data Types
+- User Input
+- Type Conversion
+- Area of Rectangle Program
+- Student Details Program
+- Swapping Variables
+
+## Technologies
 - Python
 - VS Code
 - Git
 - GitHub
 
-## 📌 Progress
-
-- [ ] Day 1
-- [ ] Day 2
-- [ ] Day 3
-
-Thank you for visiting my repository!# python-365-days
-My 365-Day Python Learning Journey
+## Author
+Varshitha HM
